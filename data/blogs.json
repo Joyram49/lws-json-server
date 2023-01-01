@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "author": "Hridoy",
+    "authorImgLink": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
+    "categories": "Food",
+    "skills": "UI/UX - Designer",
+    "authorDesc": "he is a lawyer, podcaster, speaker, and writer. As an educational content director, he helps develop HasThemes premium training products.",
+    "blogHead": "Make your store stand out from the others by",
+    "blogDesc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical literature from 459, making it over 2000 years old. Richard McClintock, a Latin professor at Virginia looked up one of the more obscure",
+    "blogImgLink": "https://images.news18.com/ibnlive/uploads/2021/06/1623924457_food-chart.jpg?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal",
+    "createdAt": "15 Jan 2020",
+    "duration": 10,
+    "likes": "2.5k",
+    "comment": "158"
+  }
+]
