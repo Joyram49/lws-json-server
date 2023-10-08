@@ -12,7 +12,7 @@ server.use(jsonServer.bodyParser);
 server.use(middlewares);
 server.use(router);
 
-const port = process.env.PORT || 5001;
+const port = process.env.PORT || 9000;
 
 server.listen(port, () => {
   console.log(`JSON Server is running on http://localhost:${port}`);
