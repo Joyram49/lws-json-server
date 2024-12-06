@@ -24,6 +24,33 @@
     "price": 23.99,
     "rating": 4,
     "featured": true,
+    "id": 3
+  },
+  {
+    "name": "Iron Flame (The Empyrean, 2)",
+    "author": "M Rebecca Yarros",
+    "thumbnail": "https://m.media-amazon.com/images/I/917Bc9C1MlL._SY466_.jpg",
+    "price": 18.39,
+    "rating": 5,
+    "featured": true,
     "id": 4
+  },
+  {
+    "name": "House of Flame and Shadow (Crescent City, 3)",
+    "author": " Sarah J. Maas",
+    "thumbnail": "https://m.media-amazon.com/images/I/91jbHTNpy6L._SY425_.jpg",
+    "price": 43.99,
+    "rating": 5,
+    "featured": false,
+    "id": 5
+  },
+  {
+    "name": "Professional JavaScript for Web Developers 4th Edition",
+    "author": "Matt Frisbie",
+    "thumbnail": "https://m.media-amazon.com/images/I/61b03PRisyL._SY425_.jpg",
+    "price": 17.99,
+    "rating": 4,
+    "featured": true,
+    "id": 6
   }
 ]

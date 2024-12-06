@@ -6,6 +6,7 @@ const tags = require("./data/tags.json");
 const books = require("./data/books.json");
 const posts = require("./data/posts.json");
 const jobs = require("./data/jobs.json");
+const chats = require("./data/chat.json");
 
 module.exports = {
   todos,
@@ -16,4 +17,5 @@ module.exports = {
   books,
   posts,
   jobs,
+  chats,
 };
